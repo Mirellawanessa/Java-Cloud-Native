@@ -1,0 +1,10 @@
+.idea/
+.svn/
+.git/
+target/
+.settings/
+.classpath
+.project
+.vscode/
+settings.json
+GUI/.idea/

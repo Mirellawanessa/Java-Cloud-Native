@@ -1,0 +1,19 @@
+.text-field {
+}
+
+.button {
+    -fx-text-fill: #F0DC72;
+}
+
+.button:pressed, .toggle-button:selected {
+    -fx-text-fill: #bdab51;
+}
+
+.root{
+    -fx-background-image: url("background.jpg");
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: cover;
+}
+
+
+
