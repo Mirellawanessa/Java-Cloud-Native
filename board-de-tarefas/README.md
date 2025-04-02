@@ -37,7 +37,7 @@ O objetivo deste projeto é proporcionar uma compreensão prática de como integ
     <img 
       align="left" 
       width="80" 
-      src="GitHub/imagens/User.jpeg"
+      src="https://github.com/Mirellawanessa/DIO-Trilha-Java-Basico/blob/main/GitHub/imagens/User.jpeg?raw=true"
     />
     <p>&nbsp;&nbsp;&nbsp;Mirella Wanessa<br>
     &nbsp;&nbsp;&nbsp;
