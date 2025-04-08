@@ -25,7 +25,7 @@ Uso: IaaS para infraestrutura personalizada, PaaS para desenvolvimento ágil, Sa
 Esses modelos atendem a diferentes necessidades, desde controle total até conveniência máxima, dentro do conceito de responsabilidade compartilhada na nuvem.
 
 
-# Criando Máquinas Virtuais no Microsoft Azure <img src="https://www.vhv.rs/dpng/d/432-4323159_azure-resource-group-icon-arm-azure-resource-manager.png" alt="Logo" width="200" align="right">
+# Criando Máquinas Virtuais no Microsoft Azure 
 
 ## Índice
 
@@ -112,7 +112,7 @@ As Máquinas Virtuais no Azure permitem que você execute aplicações em ambien
 2. **Configurações Adicionais**:
    - Acesse o painel da VM para ajustar configurações, monitorar desempenho e gerenciar recursos associados.
   
-# Configurando uma Instância de Banco de Dados no Microsoft Azure <img src="https://img2.gratispng.com/20181110/oee/kisspng-database-management-system-computer-icons-relation-1713924142699.webp" alt="Logo" width="200" align="right">
+# Configurando uma Instância de Banco de Dados no Microsoft Azure 
 
 ## Índice
 
