@@ -114,11 +114,6 @@ As Máquinas Virtuais no Azure permitem que você execute aplicações em ambien
 2. **Configurações Adicionais**:
    - Acesse o painel da VM para ajustar configurações, monitorar desempenho e gerenciar recursos associados.
 
-## Conclusão
-
-Seguindo este guia, você será capaz de criar e configurar uma máquina virtual no Microsoft Azure, ajustando as opções para atender às suas necessidades específicas. Explore as opções avançadas de gerenciamento para maximizar o desempenho e a segurança da sua VM.
-
-
 ## 👩‍💻 Expert
    
    <p>
