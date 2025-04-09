@@ -11,7 +11,7 @@
  
  Desenvolvido em Java e seguindo os princípios da orientação a objetos, este programa de simulação bancária beneficia-se da modularidade, flexibilidade e reusabilidade inerentes a esse paradigma. Ideal para fins de aprendizado avançado e prática na implementação de conceitos de programação orientada a objetos em um contexto real. Projeto desenvolvido como parte do Bootcamp **Java Cloud Native** do Bradesco 2025.
 
-## 👩‍💻 Expert
+## 👩‍💻 Desenvolvedora
 
 <p>
     <img 

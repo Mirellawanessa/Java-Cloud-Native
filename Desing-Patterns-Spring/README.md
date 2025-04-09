@@ -53,7 +53,7 @@ Este projeto tem como objetivo fornecer exemplos práticos de como implementar o
 - Java 17 ou superior
 - Maven 3.8.x ou superior
 
-## 👩‍💻 Expert
+## 👩‍💻 Desenvolvedora
 
 <p>
     <img 

@@ -45,7 +45,7 @@ BancoDigital/
    javac src/main/java/banco/Main.java -d out
    java -cp out banco.Main
    ```
-## 👩‍💻 Expert
+## 👩‍💻 Desenvolvedora
 
 <p>
     <img 

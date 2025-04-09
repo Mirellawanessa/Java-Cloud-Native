@@ -14,18 +14,6 @@ Este projeto demonstra como utilizar o Azure AI Language Studio para análise de
 
 ## Resultados Exemplo
 Pra os testes desse projeto, foram utilizadas avaliações ficticias de um restaurante italiano.
-- Análise 1 - sentença positiva:
-![image](https://github.com/user-attachments/assets/a7569acc-b023-4d72-a7c5-c46181455c61)
-![image](https://github.com/user-attachments/assets/13b679d2-3980-4a2d-96dc-d1cd535f5e0f)
-![image](https://github.com/user-attachments/assets/fabe93e5-276c-4323-be96-ebfee70c0a82)
-![image](https://github.com/user-attachments/assets/20422232-c553-4939-a668-4057dde5d69b)
-![image](https://github.com/user-attachments/assets/5155fe4f-a12f-42ab-bbd6-043ae5b6e205)
-- Análise 2 - sentença negativa:
-![image](https://github.com/user-attachments/assets/e68ac5d5-c85b-47f6-a51d-1b111af3d6d6)
-![image](https://github.com/user-attachments/assets/375b6d01-8539-4bc1-83bf-77538aefdc4f)
-![image](https://github.com/user-attachments/assets/8b0b362d-6308-4688-a279-dbbd87e12783)
-![image](https://github.com/user-attachments/assets/7efbb78a-fe35-4527-b566-549c3f572cc6)
-![image](https://github.com/user-attachments/assets/70546a7d-f890-440b-8f39-fc0fc4c4750e)
 
 **Frases analisadas:**
 - "Noite Inesquecível!
@@ -43,22 +31,22 @@ Pior experiência gastronômica dos últimos anos, a "carbonara autêntica" vinh
 - A importância do processamento de linguagem natural.
 - Aplicações práticas de análise de sentimentos.
 
-## 👩‍💻 Expert
-   
-   <p>
-       <img 
-         align="left" 
-         width="80" 
-         src="https://github.com/Mirellawanessa/DIO-Trilha-Java-Basico/blob/main/GitHub/imagens/User.jpeg?raw=true"
-       />
-       <p>&nbsp;&nbsp;&nbsp;Mirella Wanessa<br>
-       &nbsp;&nbsp;&nbsp;
-       <a href="https://github.com/Mirellawanessa">GitHub</a>&nbsp;|&nbsp;
-       <a href="https://www.linkedin.com/in/mirellawanessa/">LinkedIn</a>&nbsp;|&nbsp;
-       <a href="https://www.instagram.com/_mirella.page/?next=%2F">Instagram</a>
-       &nbsp;|&nbsp;</p>
-   </p>
-   
-   ---
-   
-   ⌨️ with 💜 by [Mirella Wanessa](https://github.com/Mirellawanessa)
+## 👩‍💻 Desenvolvedora
+
+<p>
+    <img 
+      align="left" 
+      width="80" 
+      src="https://github.com/Mirellawanessa/DIO-Trilha-Java-Basico/blob/main/GitHub/imagens/User.jpeg?raw=true"
+    />
+    <p>&nbsp;&nbsp;&nbsp;Mirella Wanessa<br>
+    &nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/Mirellawanessa">GitHub</a>&nbsp;|&nbsp;
+    <a href="https://www.linkedin.com/in/mirellawanessa/">LinkedIn</a>&nbsp;|&nbsp;
+    <a href="https://www.instagram.com/_mirella.page/?next=%2F">Instagram</a>
+    &nbsp;|&nbsp;</p>
+</p>
+
+---
+
+⌨️ with 💜 by [Mirella Wanessa](https://github.com/Mirellawanessa)

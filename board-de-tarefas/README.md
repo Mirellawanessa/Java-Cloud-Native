@@ -31,7 +31,7 @@ O objetivo deste projeto é proporcionar uma compreensão prática de como integ
 
 É um exemplo de como sistemas de gerenciamento de tarefas podem ser desenvolvidos de forma simples e eficiente utilizando tecnologias de back-end.
 
-## 👩‍💻 Expert
+## 👩‍💻 Desenvolvedora
 
 <p>
     <img 

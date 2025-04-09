@@ -25,7 +25,7 @@ mvn -pl GUI javafx:compile javafx:run
 - **Maven** - Gerenciamento de dependências
 - **SLF4J** - API de registro
 
-## 👩‍💻 Expert
+## 👩‍💻 Desenvolvedora
 
 <p>
     <img 

@@ -38,7 +38,7 @@ controle-candidatos-java/
 │-- pom.xml
 │-- README.md
 ```
-## 👩‍💻 Expert
+## 👩‍💻 Desenvolvedora
 
 <p>
     <img 

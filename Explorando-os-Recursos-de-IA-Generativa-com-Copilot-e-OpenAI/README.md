@@ -37,9 +37,29 @@ Comece hoje mesmo a explorar o Copilot e a OpenAI para dar um impulso à sua car
 
 Recursos Adicionais:
 
-    Site do Copilot: [URL inválido removido]
+    Site do Copilot: https://copilot.microsoft.com/chats/hAat239XzDVcPogGwCQis
     Site da OpenAI: https://openai.com/
-    Tutoriais do Copilot: [URL inválido removido]
-    Documentação da OpenAI: [URL inválido removido]
+    Tutoriais do Copilot: https://support.microsoft.com/pt-br/topic/tutorial-do-copilot-come%C3%A7ar-a-usar-copilot-fe837774-3f6b-4885-850d-01f0e428898c
+    Documentação da OpenAI: https://learn.microsoft.com/pt-br/azure/ai-services/openai/
 
 Com dedicação e estudo, você estará pronto para se tornar um especialista em IA Generativa e utilizar essas ferramentas para criar um impacto positivo no mundo!
+
+## 👩‍💻 Desenvolvedora
+
+<p>
+    <img 
+      align="left" 
+      width="80" 
+      src="https://github.com/Mirellawanessa/DIO-Trilha-Java-Basico/blob/main/GitHub/imagens/User.jpeg?raw=true"
+    />
+    <p>&nbsp;&nbsp;&nbsp;Mirella Wanessa<br>
+    &nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/Mirellawanessa">GitHub</a>&nbsp;|&nbsp;
+    <a href="https://www.linkedin.com/in/mirellawanessa/">LinkedIn</a>&nbsp;|&nbsp;
+    <a href="https://www.instagram.com/_mirella.page/?next=%2F">Instagram</a>
+    &nbsp;|&nbsp;</p>
+</p>
+
+---
+
+⌨️ with 💜 by [Mirella Wanessa](https://github.com/Mirellawanessa)

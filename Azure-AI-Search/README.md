@@ -81,9 +81,6 @@ Você precisará provisionar um recurso de **Serviços de IA do Azure** que este
 
 1. No painel de menu à esquerda, selecione **Contêineres**.
 
-   ![image](https://github.com/lucslima96/Azure-AI-Search/assets/128159917/e77e388f-5cfb-4948-b2c3-391f78690107)
-
-
 1. Selecione **+ Contêiner**. Um painel no lado direito será aberto.
 
 1. Insira as seguintes configurações e clique em **Criar**:
@@ -95,15 +92,9 @@ Você precisará provisionar um recurso de **Serviços de IA do Azure** que este
 
 1. No portal do Azure, selecione seu contêiner *coffee-reviews*. No contêiner, selecione **Upload**.
 
-    ![image](https://github.com/lucslima96/Azure-AI-Search/assets/128159917/2afcda39-fddb-42b6-983d-509421e7da77)
-
-
 1. Na janela **Upload de blob**, selecione **Selecionar um arquivo**.
 
 1. Na janela do Explorador, selecione **todos** os arquivos na pasta *reviews*, clique em **Abrir** e, em seguida, selecione **Upload**.
-
-   ![image](https://github.com/lucslima96/Azure-AI-Search/assets/128159917/251f4b2f-c596-4e79-9039-d24b79aa5b5d)
-
 
 1. Após o término do upload, você pode fechar a janela **Upload de blob**. Seus documentos agora estão no contêiner de armazenamento *coffee-reviews*.
 
@@ -112,9 +103,6 @@ Você precisará provisionar um recurso de **Serviços de IA do Azure** que este
 Após ter os documentos armazenados, você pode usar a Pesquisa de IA do Azure para extrair insights desses documentos. O portal Azure fornece um *Assistente de Importação de Dados*. Com este assistente, você pode criar automaticamente um índice e um indexador para fontes de dados suportadas. Você usará o assistente para criar um índice e importar seus documentos de pesquisa do armazenamento para o índice de Pesquisa de IA do Azure.
 
 1. No portal Azure, navegue até o recurso de Pesquisa de IA do Azure. Na página **Visão geral**, selecione **Importar dados**.
-
-   ![image](https://github.com/lucslima96/Azure-AI-Search/assets/128159917/bf3eee36-8eca-4c2f-964e-103339dacc66)
-
 
 1. Na página **Conectar-se aos seus dados**, na lista **Fonte de dados**, selecione **Armazenamento de Blobs do Azure**. Complete os detalhes do datastore com os seguintes valores:
     - **Fonte de dados**: Armazenamento de Blobs do Azure
@@ -161,8 +149,6 @@ Após ter os documentos armazenados, você pode usar a Pesquisa de IA do Azure p
     > **Observação**
     > Se um aviso pedindo uma **Cadeia de Conexão de Conta de Armazenamento** aparecer.
     >
-    > ![image](https://github.com/lucslima96/Azure-AI-Search/assets/128159917/65686d7e-0615-43ed-84a3-0255cff7d8b6)
-
     >
     > 1. Selecione **Escolher uma conexão existente**. Escolha a conta de armazenamento que você criou anteriormente.
     > 1. Clique em **+ Contêiner** para criar um novo contêiner chamado **knowledge-store** com o nível de privacidade definido como **Privado**, e selecione **Criar**.
@@ -175,9 +161,6 @@ Após ter os documentos armazenados, você pode usar a Pesquisa de IA do Azure p
 1. Garanta que a **Chave** esteja definida como **metadata_storage_path**. Deixe **Nome do sugestor** em branco e **Modo de pesquisa** autopreenchido.
 
 1. Revise as configurações padrão dos campos de índice. Selecione **filtrável** para todos os campos que já estão selecionados por padrão.
-
-    ![image](https://github.com/lucslima96/Azure-AI-Search/assets/128159917/3350e74c-976a-4d7f-bea5-05a4dcccb7fb)
-
 
 1. Selecione **Próximo: Criar um indexador**.
 
@@ -196,22 +179,13 @@ Após ter os documentos armazenados, você pode usar a Pesquisa de IA do Azure p
 
 1. Selecione o nome do indexador para ver mais detalhes.
 
-    ![image](https://github.com/lucslima96/Azure-AI-Search/assets/128159917/7745ea06-ea28-4eef-b4a3-d7f7b6daad0c)
-
-
 ## Consultar o índice
 
 Use o explorador de pesquisa para escrever e testar consultas. O explorador de pesquisa é uma ferramenta integrada ao portal Azure que oferece uma maneira fácil de validar a qualidade do seu índice de pesquisa. Você pode usar o explorador de pesquisa para escrever consultas e revisar resultados em JSON.
 
 1. Na página **Visão geral** do seu serviço de pesquisa, selecione **Explorador de Pesquisa** no topo da tela.
 
-   ![image](https://github.com/lucslima96/Azure-AI-Search/assets/128159917/9dd8f2b1-ee4b-4e79-95b8-b4145f5302b7)
-
-
 2. Observe como o índice selecionado é o *índice de café* que você criou. Abaixo do índice selecionado, altere a *visualização* para **Visualização JSON**. 
-
-    ![image](https://github.com/lucslima96/Azure-AI-Search/assets/128159917/1dcd2e3c-efc6-44df-b752-f7c29038e133)
-
 
 No campo **Editor de consulta JSON**, copie e cole: 
 ```json
@@ -253,33 +227,15 @@ Vamos ver o poder do repositório de conhecimento em ação. Quando você execut
 
 2. No painel de menu à esquerda, selecione **Containers**. Selecione o contêiner **knowledge-store**.
 
-    ![image](https://github.com/lucslima96/Azure-AI-Search/assets/128159917/87ddbece-8c79-422e-adfc-280ddee122c7)
-
-
 3. Selecione qualquer um dos itens e clique no arquivo **objectprojection.json**.
-
-    ![image](https://github.com/lucslima96/Azure-AI-Search/assets/128159917/b9aa1877-25f8-409c-ad7f-f0ed3ecfada0)
-
 
 4. Selecione **Editar** para ver o JSON produzido para um dos documentos do seu armazenamento de dados do Azure.
 
-    ![image](https://github.com/lucslima96/Azure-AI-Search/assets/128159917/fb636b3c-02c6-4675-89e1-475098fc06c0)
-
-
 5. Selecione o caminho de migalhas de pão do blob de armazenamento no canto superior esquerdo da tela para retornar aos *Containers* da conta de armazenamento.
-
-    ![image](https://github.com/lucslima96/Azure-AI-Search/assets/128159917/9fa526f0-8b29-464c-a0da-d079b10cb722)
-
 
 6. Nos *Containers*, selecione o contêiner *coffee-skillset-image-projection*. Selecione qualquer um dos itens.
 
-    ![image](https://github.com/lucslima96/Azure-AI-Search/assets/128159917/a960d95e-9889-4e61-8657-afd20f6e345c)
-
-
 7. Selecione qualquer um dos arquivos *.jpg*. Selecione **Editar** para ver a imagem armazenada do documento. Observe como todas as imagens dos documentos são armazenadas dessa maneira.
-
-    ![image](https://github.com/lucslima96/Azure-AI-Search/assets/128159917/dfb0cb59-68f0-49ce-911a-0f7ff34aa089)
-
 
 8. Selecione o caminho de migalhas de pão do blob de armazenamento no canto superior esquerdo da tela para retornar aos *Containers* da conta de armazenamento.
 
@@ -291,4 +247,23 @@ Vamos ver o poder do repositório de conhecimento em ação. Quando você execut
 
 Este índice de pesquisa simples mostra apenas algumas das capacidades do serviço Azure AI Search. Para saber mais sobre o que você pode fazer com este serviço, consulte a [página do serviço Azure AI Search](https://learn.microsoft.com/azure/search).
 
+## 👩‍💻 Desenvolvedora
+
+<p>
+    <img 
+      align="left" 
+      width="80" 
+      src="https://github.com/Mirellawanessa/DIO-Trilha-Java-Basico/blob/main/GitHub/imagens/User.jpeg?raw=true"
+    />
+    <p>&nbsp;&nbsp;&nbsp;Mirella Wanessa<br>
+    &nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/Mirellawanessa">GitHub</a>&nbsp;|&nbsp;
+    <a href="https://www.linkedin.com/in/mirellawanessa/">LinkedIn</a>&nbsp;|&nbsp;
+    <a href="https://www.instagram.com/_mirella.page/?next=%2F">Instagram</a>
+    &nbsp;|&nbsp;</p>
+</p>
+
+---
+
+⌨️ with 💜 by [Mirella Wanessa](https://github.com/Mirellawanessa)
 

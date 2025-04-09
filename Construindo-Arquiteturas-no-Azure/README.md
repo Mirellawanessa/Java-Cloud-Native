@@ -40,7 +40,7 @@ e serviços na nuvem. Aqui estão os principais componentes:
    Esses componentes são a base para construir arquiteturas na nuvem do Azure, permitindo a criação de soluções
    escaláveis, seguras e eficientes.
    
-## 👩‍💻 Expert
+## 👩‍💻 Desenvolvedora
    
    <p>
        <img 

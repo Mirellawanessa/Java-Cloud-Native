@@ -274,7 +274,7 @@ A configuração de recursos e dimensionamentos em uma máquina virtual no Azure
 1. Após selecionar o novo tamanho, clique em "Redimensionar" para aplicar as mudanças.
 2. **Atenção**: O processo de redimensionamento pode causar uma breve interrupção no funcionamento da VM, então programe a alteração para momentos de menor impacto.
 
-## 👩‍💻 Expert
+## 👩‍💻 Desenvolvedora
    
    <p>
        <img 
