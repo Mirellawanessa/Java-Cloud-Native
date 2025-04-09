@@ -1,14 +1,17 @@
 <h1>
-    <a href="https://www.dio.me/">
-        <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png">
-    </a>
-    <span> Java Cloud Native - Projetos DIO</span>
+  <a href="https://www.dio.me/">
+    <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png">
+  </a>
+  <a href="https://logospng.org/download/bradesco/logo-bradesco-escudo-1024.png">
+    <img align="center" width="40px" src="https://logospng.org/download/bradesco/logo-bradesco-escudo-512.png" style="margin-left: 10px;">
+  </a>
+  <span> Bootcamp Java Cloud Native</span>
 </h1>
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/Mirellawanessa/Java-Cloud-Native)
 ![GitHub repo size](https://img.shields.io/github/repo-size/Mirellawanessa/Java-Cloud-Native)
 
-Olá! 👋 Sou Mirella Wanessa, e este repositório contém todos os projetos desenvolvidos durante minha jornada na trilha **Java Cloud Native** da [DIO.me](https://www.dio.me/).
+Olá! 👋 Sou Mirella Wanessa, e este repositório contém todos os projetos desenvolvidos durante minha jornada no Bootcamp **Java Cloud Native** do Bradesco 2025 na [DIO.me](https://www.dio.me/).
 
 ---
 
