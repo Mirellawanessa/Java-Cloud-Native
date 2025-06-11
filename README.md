@@ -49,7 +49,8 @@ Durante o curso, aprendi sobre:
 | Nome do Projeto | Descrição |
 |-----------------|-----------|
 | [APIREST-Na-Nuvem/desafio-apirest](https://github.com/Mirellawanessa/Java-Cloud-Native/tree/main/APIREST-Na-Nuvem/desafio-apirest) | Projeto de uma API RESTful com Spring Boot e integração com banco de dados, implantada em ambiente cloud. |
-| [Azure-AI-Search](https://github.com/Mirellawanessa/Java-Cloud-Native/tree/main/Azure-AI-Search) | Integração de recursos de busca inteligente utilizando Azure Cognitive Search com Java. |
+| [Azure-AI-Search](
+https://github.com/Mirellawanessa/Java-Cloud-Native/tree/main/Azure-AI-Search) | Integração de recursos de busca inteligente utilizando Azure Cognitive Search com Java. |
 | [Banco-Java](https://github.com/Mirellawanessa/Java-Cloud-Native/tree/main/Banco-Java) | Simulação de operações bancárias utilizando Programação Orientada a Objetos com Java puro. |
 | [BancoDigital](https://github.com/Mirellawanessa/Java-Cloud-Native/tree/main/BancoDigital) | Criação de uma conta bancária digital com funcionalidades básicas implementadas com Java. |
 | [Construindo-Arquiteturas-no-Azure](https://github.com/Mirellawanessa/Java-Cloud-Native/tree/main/Construindo-Arquiteturas-no-Azure) | Exercício prático de construção de arquitetura de aplicações na nuvem usando Microsoft Azure. |
@@ -98,17 +99,17 @@ cd nome-do-projeto
 ## 👩‍💻 Desenvolvedora
 
 <p>
-    <img 
-      align="left" 
-      width="80" 
-      src="https://github.com/Mirellawanessa/DIO-Trilha-Java-Basico/blob/main/GitHub/imagens/User.jpeg?raw=true"
-    />
-    <p>&nbsp;&nbsp;&nbsp;Mirella Wanessa<br>
-    &nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/Mirellawanessa">GitHub</a>&nbsp;|&nbsp;
-    <a href="https://www.linkedin.com/in/mirellawanessa/">LinkedIn</a>&nbsp;|&nbsp;
-    <a href="https://www.instagram.com/_mirella.page/?next=%2F">Instagram</a>
-    &nbsp;|&nbsp;</p>
+  <img 
+    align="left" 
+    width="80" 
+    src="https://github.com/Mirellawanessa/DIO-Trilha-Java-Basico/blob/main/GitHub/imagens/User.jpeg?raw=true"
+  />
+  <p>&nbsp;&nbsp;&nbsp;Mirella Wanessa<br>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Mirellawanessa">GitHub</a>&nbsp;|&nbsp;
+  <a href="https://www.linkedin.com/in/mirellawanessa/">LinkedIn</a>&nbsp;|&nbsp;
+  <a href="https://www.instagram.com/myfilearchive">Instagram</a>
+  &nbsp;|&nbsp;</p>
 </p>
 
 ---
